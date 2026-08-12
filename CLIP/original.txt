@@ -1,0 +1,396 @@
+salt shaker
+pepper shaker
+deodorant
+fan
+sex scene
+nudity
+rabbit
+tree
+forest
+diagram
+chart
+graph
+flower
+person
+man
+woman
+child
+bicycle
+car
+motorcycle
+airplane
+bus
+train
+truck
+boat
+traffic light
+fire hydrant
+stop sign
+sign
+street sign
+parking meter
+bench
+bird
+cat
+dog
+horse
+sheep
+cow
+machine
+elephant
+bear
+zebra
+giraffe
+backpack
+umbrella
+handbag
+tie
+suitcase
+frisbee
+skis
+snowboard
+sports ball
+kite
+baseball game
+baseball bat
+baseball glove
+skateboard
+surfboard
+tennis racket
+bottle
+wine glass
+cup
+fork
+spoon
+bowl
+banana
+apple
+sandwich
+orange
+broccoli
+carrot
+hot dog
+pizza
+donut
+cake
+chair
+couch
+potted plant
+plant
+bed
+dining table
+toilet
+tv
+laptop
+mouse
+remote
+keyboard
+cell phone
+oven
+stove
+toaster
+sink
+refrigerator
+book
+clock
+vase
+scissors
+teddy bear
+hair drier
+toothbrush
+text
+car
+truck
+boat
+Alarm clock
+Backpack
+Baking sheet
+Banana
+Bandaid
+Baseball bat
+Baseball glove
+Basket
+Bathrobe
+Bath towel
+Battery
+Bed sheet
+Beer bottle
+Beer can
+Belt
+Bench
+Bicycle
+Bike pump
+Money
+Binder
+Biscuits
+Blanket
+Blender
+Blouse
+Board game
+Book
+Bookend
+Boots
+Bottle cap
+Bottle opener
+Bottle stopper
+Box
+Bracelet
+knife
+Bread
+Briefcase
+Brooch
+Broom
+Bucket
+Butter
+CD
+Calendar
+Can opener
+Candle
+Canned food
+Cellphone
+Cellphone case
+Cellphone charger
+Cereal
+Chair
+Cheese
+Chess piece
+Chocolate
+Chopstick
+Clothes hamper
+Clothes hanger
+🪑Coffee beans
+Coffee grinder
+Coffee machine
+Coffee table
+Comb
+Combination lock
+Computer mouse
+Contact lens case
+Cooking oil bottle
+Cork
+Cutting board
+DVD player
+Desk lamp
+Detergent
+Dishrag or hand towel
+Dish soap
+Document
+folder
+Dog bed
+Doormat
+Drawer
+Refridgerator
+Microwave
+Dress
+Dress pants
+Dress shirt
+Uniform
+Drill
+Drinking Cup
+Drinking straw
+Dust pan
+Earbuds
+Earring
+Egg
+Egg carton
+Envelope
+Eraser
+Extension cable
+Eyeglasses
+Figurine
+statue
+First aid kit
+Flashlight
+Floss container
+Flour container
+Fork
+French press
+Frying pan
+Glue container
+Hair brush
+Hair clip
+Hairdryer
+Hair tie
+Hammer
+Hand mirror
+Handbag
+Hat
+Headphones
+Helmet
+Honey container
+Ice
+Ice cube tray
+Iron
+Jam
+Jar
+Jeans
+Kettle
+Keyboard
+Key chain
+Ladle
+Lampshade
+Laptop (open)
+Laptop charger
+Leaf
+Leggings
+Lemon
+Letter opener
+Lettuce
+Light bulb
+Lighter
+Lipstick
+Loofah
+Magazine
+Makeup
+Makeup brush
+Marker
+Tennis Match
+Sports
+Measuring cup
+Milk
+Bowl
+Monitor
+Mousepad
+Mouthwash
+Mug
+Multitool
+Nail
+Nail clippers
+Nail file
+Nail polish
+Napkin
+Necklace
+Newspaper
+Nightlight
+Nightstand
+Notebook
+Notepad
+Nut for a screw
+Orange
+Oven mitts
+Padlock
+Paintbrush
+Paint can
+Paper
+Paper bag
+Paper towel
+Paperclip
+Pen
+Pencil
+Food container
+Landline phone
+Photograph
+Pill bottle
+Pill organizer
+Pillow
+Pitcher
+Placemat
+Plastic bag
+Plastic cup
+Plasticwrap
+Plate
+Playing cards
+Pliers
+Plunger
+Pop can
+Poster
+Candy bar
+Power cable
+Printer
+Raincoat
+Rake
+Razor
+Receipt
+Remote control
+Ribbon
+Ring
+Rock
+Ruler
+Safety pin
+Sandal
+Scarf
+Scissors
+Screw
+Scrub brush
+Shampoo bottle
+Shoe
+Shoelace
+Shorts
+Shovel
+Skateboard
+Skirt
+Sleeping bag
+Slipper
+Soap bar
+Soap dispenser
+Sock
+Soup Bowl
+Sewing kit
+Spatula
+Speaker
+Sponge
+Spoon
+Spray bottle
+Squeegee
+Squeeze bottle
+Standing lamp
+Step stool
+Camera
+Sink
+Faucet
+Strainer
+Stuffed animal
+Sugar container
+Suit jacket
+Suitcase
+Sunglasses
+Sweater
+Swimming trunks
+T-shirt
+TV
+knife
+Tablecloth
+Tablet
+Tanktop
+Tape
+Tape measure
+Tarp
+Teabag
+Teapot
+Tennis racket
+Thermometer
+Thermos
+Throw pillow
+Tie
+Tissue
+Toaster
+Toilet paper roll
+Tomato
+Tongs
+Toothbrush
+Toothpaste
+Tote bag
+Toy
+Trash bag
+Trash bin
+Travel case
+Tray
+Trophy
+Umbrella
+USB cable
+USB flash drive
+Vacuum cleaner
+Vase
+Wallet
+Watch
+Water bottle
+Webcam
+scale
+Wheel
+Whisk
+Whistle
+Wine bottle
+Wine glass
+Winter glove
+Wok
+Wrench

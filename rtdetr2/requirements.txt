@@ -1,0 +1,19 @@
+# RT-DETRv2 Core Requirements
+torch>=2.0.1
+torchvision>=0.15.2
+pycocotools
+PyYAML
+tensorboard
+
+# Flask REST API
+flask
+flask-cors
+
+# Image processing
+Pillow
+numpy
+
+# Utilities
+python-dotenv
+requests
+scipy

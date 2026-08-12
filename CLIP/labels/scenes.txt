@@ -1,0 +1,42 @@
+kitchen scene
+living room scene
+bedroom scene
+dining room scene
+bathroom scene
+basement scene
+attic scene
+garage scene
+home office scene
+nursery scene
+laundry room scene
+restaurant scene
+store scene
+office scene
+hospital scene
+school scene
+library scene
+museum scene
+gym scene
+hotel scene
+bar scene
+cafe scene
+mall scene
+street scene
+nature scene
+outdoor scene
+park scene
+beach scene
+forest scene
+mountain scene
+garden scene
+playground scene
+parking lot scene
+construction site scene
+sports scene
+concert scene
+wedding scene
+party scene
+meeting scene
+classroom scene
+workshop scene
+festival scene

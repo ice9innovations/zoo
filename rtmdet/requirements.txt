@@ -1,0 +1,22 @@
+# RTMDet Dependencies - Tested Working Configuration
+# Core dependencies installed in Dockerfile in specific order
+
+# Flask and web framework
+flask==3.0.0
+flask-cors==4.0.0
+
+# Utilities
+python-dotenv==1.0.0
+Pillow==10.1.0
+requests==2.31.0
+opencv-python==4.11.0
+
+# Note: PyTorch and MMDetection ecosystem installed via Dockerfile
+# in exact order to avoid dependency conflicts:
+# torch==2.1.2+cu121
+# torchvision==0.16.2+cu121
+# numpy==1.26.4
+# openmim
+# mmengine (via mim)
+# mmcv==2.1.0 (via mim)
+# mmdet (via mim)

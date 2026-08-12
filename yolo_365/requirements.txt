@@ -1,0 +1,14 @@
+# Core ML dependencies
+ultralytics>=8.3.0
+torch>=2.0.0
+pillow>=10.0.0
+numpy>=1.24.0
+
+# Flask web framework
+flask>=3.0.0
+flask-cors>=6.0.0
+
+# Environment
+python-dotenv>=1.0.0
+requests>=2.31.0
+

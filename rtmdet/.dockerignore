@@ -1,0 +1,53 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Virtual environments
+rtmdet_venv/
+venv/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Git
+.git/
+.gitignore
+
+# Logs
+*.log
+logs/
+
+# Uploads and cache
+uploads/*
+!uploads/.gitkeep
+*.cache
+
+# Documentation that doesn't need to be in container
+README.md
+INSTALLATION.md
+*.md
+
+# Development files
+.env.example
+test_*.py
+
+# Model checkpoints (will be downloaded at runtime)
+*.pth
+*.pt
+checkpoints/

@@ -1,0 +1,26 @@
+# HAILO-Accelerated YOLO Service Requirements
+# For Raspberry Pi 5 with HAILO-8L acceleration
+
+# Core Flask web framework
+Flask==2.0.3
+flask-cors==3.0.10
+Werkzeug==2.0.3
+
+# Environment and configuration
+python-dotenv==0.19.2
+
+# HTTP requests
+requests==2.28.2
+
+# Image processing
+opencv-python==4.6.0.66
+Pillow==8.4.0
+
+# Numpy (compatible with HAILO)
+numpy>=1.19.0
+
+# HAILO Platform (system package - install via apt)
+# sudo apt install python3-hailo-platform
+
+# Note: The hailo_platform module should be available system-wide
+# If running in a venv, you may need to symlink or use --system-site-packages

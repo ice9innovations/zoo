@@ -1,0 +1,36 @@
+version: '3.8'
+
+services:
+  rtmdet:
+    build: .
+    container_name: rtmdet-service
+    ports:
+      - "7792:7792"
+    environment:
+      - PRIVATE=false
+      - PORT=7792
+      - CONFIDENCE_THRESHOLD=0.25
+      - AUTO_UPDATE=true
+      - TIMEOUT=10.0
+    volumes:
+      # Mount uploads directory for file processing
+      - ./uploads:/app/uploads
+      # Mount emoji mappings cache
+      - ./emoji_mappings.json:/app/emoji_mappings.json:ro
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:7792/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 60s
+    deploy:
+      resources:
+        limits:
+          memory: 4G
+        reservations:
+          memory: 2G
+    # Enable GPU support if available
+    # runtime: nvidia
+    # environment:
+    #   - NVIDIA_VISIBLE_DEVICES=all

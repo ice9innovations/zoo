@@ -1,0 +1,15 @@
+# Core dependencies - PyTorch/YOLO only, no TensorFlow!
+ultralytics==8.3.0  # This will pull in PyTorch
+Pillow>=10.0.0
+numpy>=1.24.0
+requests>=2.31.0  # For HTTP calls to Xception service
+
+# Flask dependencies - proven stable versions
+flask==2.3.3
+flask-cors==4.0.0
+Werkzeug==2.3.7
+
+# Environment
+python-dotenv>=1.0.0
+
+# No TensorFlow needed - using external Xception service instead
